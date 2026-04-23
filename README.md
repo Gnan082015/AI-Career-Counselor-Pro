@@ -1,4 +1,4 @@
-# AI Career Counselor Pro 🚀
+# AI Career Counselor Pro 
 
 AI-powered system for:
 - Career guidance
